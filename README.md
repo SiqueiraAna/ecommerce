@@ -1,6 +1,6 @@
 # Sistema de Vendas de Produtos.
 
-🚀O sistema foi desenvolvido utilizando o framework Yii2 do PHP organizado no padrão MVC.  Utilizei  o banco de dados em MySQL  Workbench contém o script  SQL  para criação/carga do banco de dados.
+🚀O sistema foi desenvolvido utilizando o framework Yii2 do PHP.  Utilizei  o banco de dados em MySQL  Workbench contém o script  SQL  para criação/carga do banco de dados.
 
 
 ## Ferramentas utilizadas:
